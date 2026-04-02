@@ -1,188 +1,221 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Zain Abbas
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+Specialist;Deep+Learning+Developer;YOLOv8+%7C+TensorFlow+%7C+Python;Final+Year+%40+UET+Taxila+%F0%9F%8E%93" alt="Typing SVG" />
+# Zain Abbas
+### AI & Machine Learning Engineer
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engineerzainabbas/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engineerzainabbas@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engineerzainabbas)
+[![Profile Views](https://komarev.com/ghpvc/?username=engineerzainabbas&style=for-the-badge&color=6C63FF&label=Profile+Views)](https://github.com/engineerzainabbas)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engineerzainabbas/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engineerzainabbas@gmail.com)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engineerzainabbas)
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=engineerzainabbas&color=3498db&style=for-the-badge&label=PROFILE+VIEWS)
+🤖 **Machine Learning** &nbsp;|&nbsp; 👁️ **Computer Vision** &nbsp;|&nbsp; 🐍 **Python** &nbsp;|&nbsp; 📊 **Data Science**
+
+*Final Year Computer Engineering Student — Islamabad, Pakistan 🇵🇰*
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-```python
-class ZainAbbas:
-    def __init__(self):
-        self.name       = "Zain Abbas"
-        self.role       = "AI & Machine Learning Engineer"
-        self.university = "UET Taxila — Computer Engineering (2026)"
-        self.location   = "Islamabad, Pakistan 🇵🇰"
-        self.email      = "engineerzainabbas@gmail.com"
+- 🎓 Final Year **Computer Engineering** Student (Class of 2026)
+- 🤖 Specialized in **Machine Learning**, **Deep Learning** & **Computer Vision**
+- 👁️ Building real-world AI systems with **YOLOv8**, **LSTM** & **MobileNetV2**
+- 🖥️ Delivering interactive ML solutions via **Streamlit** dashboards
+- 💼 Ex **Fiverr Level 1 Seller** — AI/ML services for international clients
+- 📍 Based in **Islamabad, Pakistan** — available for **remote freelance work**
+- 📧 Reach me at **engineerzainabbas@gmail.com**
 
-    def skills(self):
-        return {
-            "ML / DL"         : ["TensorFlow", "Keras", "Scikit-learn", "XGBoost"],
-            "Computer Vision" : ["YOLOv8", "OpenCV", "MobileNetV2", "CNN"],
-            "Deep Learning"   : ["LSTM", "Transfer Learning", "Fine-Tuning"],
-            "Data"            : ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
-            "Automation"      : ["Python", "Selenium", "BeautifulSoup"],
-            "Dashboard"       : ["Streamlit"],
-        }
+---
 
-    def currently(self):
-        return [
-            "🔭 Building AI/ML portfolio projects",
-            "🌱 Learning advanced Computer Vision",
-            "💼 Available for freelance ML projects",
-            "🎯 Graduating 2026 — open to opportunities",
-        ]
+## 🎯 Core Skills
 
-me = ZainAbbas()
-```
+| Domain | Technologies |
+|--------|-------------|
+| **Machine Learning** | Scikit-learn · XGBoost · Random Forest · Regression · Classification |
+| **Deep Learning** | TensorFlow · Keras · CNN · LSTM · Transfer Learning · MobileNetV2 |
+| **Computer Vision** | YOLOv8 · OpenCV · Object Detection · Image Classification |
+| **Data Science** | Pandas · NumPy · Matplotlib · Seaborn · EDA · Feature Engineering |
+| **Dashboards** | Streamlit · Plotly · Interactive ML Web Apps |
+| **Automation** | Python · Selenium · BeautifulSoup · Web Scraping |
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Project | Description | Tech | Stars |
-|---|---|---|---|
-| [👁️ Person Detection YOLOv8](https://github.com/engineerzainabbas/person-detection-yolov8) | Real-time person detection in images, videos & webcam | YOLOv8 · OpenCV · Python | ⭐ |
-| [😷 Face Mask Detection](#) | Mask compliance monitoring with live webcam | MobileNetV2 · TensorFlow · Streamlit | ⭐ |
-| [📈 Stock Price LSTM](#) | Predict stock prices with LSTM + live dashboard | LSTM · TensorFlow · yfinance | ⭐ |
-| [🐱 Cat vs Dog Classifier](#) | CNN + Transfer Learning image classifier 96-98% acc | TensorFlow · MobileNetV2 · Keras | ⭐ |
-| [📉 Customer Churn Prediction](#) | Predict customer churn with 4 ML models AUC 0.84 | XGBoost · Scikit-learn · Pandas | ⭐ |
-| [🏠 House Price Prediction](#) | Regression system R2: 0.83+ on California Housing | XGBoost · Scikit-learn · Python | ⭐ |
+### 👁️ Person Detection — YOLOv8
+Real-time detection in images, video & live webcam
 
-</div>
+![YOLOv8](https://img.shields.io/badge/YOLOv8-FF0000?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+```
+mAP@0.5  →  0.525   (COCO benchmark)
+Person   →  ~0.65   mAP
+Speed    →  ~6ms    per image (CPU)
+```
+**[→ View Repository](https://github.com/engineerzainabbas/person-detection-yolov8)**
+
+</td>
+<td width="50%" valign="top">
+
+### 😷 Face Mask Detection
+Real-time compliance detection + Streamlit dashboard
+
+![MobileNetV2](https://img.shields.io/badge/MobileNetV2-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+```
+Accuracy  →  ~97%   on test data
+Mode      →  Images, Batch & Live Webcam
+Dashboard →  Interactive Streamlit app
+```
+**[→ View Repository](#)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Stock Price Prediction — LSTM
+Predict any stock worldwide with live Yahoo Finance data
+
+![LSTM](https://img.shields.io/badge/LSTM-Deep_Learning-9C27B0?style=flat-square)
+![yfinance](https://img.shields.io/badge/yfinance-Live_Data-00897B?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+```
+TSLA  →  R²: 0.9131  |  MAE: $12.19
+GOOGL →  R²: 0.8324  |  MAE: $6.16
+Forecast  →  30-day future prediction
+```
+**[→ View Repository](#)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🐱 Cat vs Dog Classifier
+CNN & MobileNetV2 Transfer Learning on 10K images
+
+![CNN](https://img.shields.io/badge/Custom_CNN-6C63FF?style=flat-square)
+![MobileNetV2](https://img.shields.io/badge/MobileNetV2-Transfer_Learning-FF6F00?style=flat-square)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+```
+MobileNetV2  →  ~96–98% accuracy
+Custom CNN   →  ~88–92% accuracy
+Dataset      →  10,000 images
+```
+**[→ View Repository](#)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Customer Churn Prediction
+4 ML models compared with full business insights
+
+![XGBoost](https://img.shields.io/badge/XGBoost-F7931E?style=flat-square)
+![Scikit](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+```
+Best AUC   →  0.8438  (Gradient Boosting)
+Accuracy   →  80.70%
+Models     →  LR, RF, XGBoost, GradBoost
+```
+**[→ View Repository](#)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 House Price Prediction
+California housing regression with 6 ML models
+
+![XGBoost](https://img.shields.io/badge/XGBoost-Best_Model-F7931E?style=flat-square)
+![RandomForest](https://img.shields.io/badge/Random_Forest-3776AB?style=flat-square)
+
+```
+Best R²    →  0.83  (XGBoost)
+Features   →  4 engineered + original
+Viz        →  Geographic price heatmap
+```
+**[→ View Repository](#)**
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**AI & Machine Learning**
 
-### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-### 🤖 ML / DL Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### 📊 Data & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+**Data & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-
-### 🖥️ Tools & Environment
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-</div>
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Freelance Services
 
-<div align="center">
+> 🟢 **Currently available** for remote freelance projects
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=engineerzainabbas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3498db&icon_color=3498db&text_color=ffffff"/>
+| Service | Stack | Starts At |
+|---------|-------|-----------|
+| 🤖 Custom ML / DL Models | TensorFlow · Scikit-learn · XGBoost | $30 |
+| 👁️ Object Detection (YOLOv8) | YOLOv8 · OpenCV · Python | $75 |
+| 📈 Time Series Forecasting | LSTM · Prophet · yfinance | $50 |
+| 📊 Data Analysis & EDA | Pandas · Matplotlib · Seaborn | $25 |
+| 🐍 Python Automation | Selenium · BeautifulSoup · Requests | $20 |
+| 🖥️ Streamlit ML Dashboard | Streamlit · Plotly | $50 |
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineerzainabbas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3498db&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=engineerzainabbas&theme=tokyonight&hide_border=true&background=0D1117&ring=3498DB&fire=3498DB&currStreakLabel=3498DB)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=engineerzainabbas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+📩 **[engineerzainabbas@gmail.com](mailto:engineerzainabbas@gmail.com)** &nbsp;|&nbsp; **[LinkedIn](https://www.linkedin.com/in/engineerzainabbas/)**
 
 ---
 
-## 📈 Contribution Graph
+## 🎓 Education & Certifications
 
-<div align="center">
-
-[![Zain's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=engineerzainabbas&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3498db&line=3498db&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```
-🔭  Building 7 AI/ML portfolio projects
-🧠  Specializing in Computer Vision & Object Detection
-📊  Developing interactive Streamlit dashboards
-💼  Available for freelance ML/AI projects
-🎓  Final year Computer Engineering — UET Taxila (2026)
-🌍  Open to remote opportunities worldwide
-```
-
----
-
-## 💼 Services I Offer
-
-```
-✅  Custom ML & Deep Learning Models
-✅  Computer Vision & Object Detection (YOLOv8)
-✅  Image Classification Systems
-✅  Time Series & Stock Price Prediction (LSTM)
-✅  Data Analysis & Visualization
-✅  Python Automation & Web Scraping
-✅  Interactive Streamlit Dashboards
-```
-
-📧 **Hire me:** engineerzainabbas@gmail.com
-💼 **Fiverr:** Available for freelance projects
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engineerzainabbas/)
-[![Gmail](https://img.shields.io/badge/Gmail-Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engineerzainabbas@gmail.com)
-
-</div>
+| | |
+|--|--|
+| 🎓 | **B.Sc. Computer Engineering** `2022 – 2026` |
+| 📜 | **Google Data Analytics Certificate** — Google / Coursera |
+| 💼 | **Level 1 Seller** — Fiverr (AI/ML Services) `2024` |
 
 ---
 
 <div align="center">
 
-### 💡 "Building intelligent systems that solve real-world problems"
+*"The goal is to turn data into information, and information into insight."*
 
-⭐ **If you find my projects useful, please star them!** ⭐
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+![Thanks](https://img.shields.io/badge/Thanks%20for%20visiting!%20⭐%20Star%20my%20repos%20if%20useful-6C63FF?style=for-the-badge)
 
 </div>
