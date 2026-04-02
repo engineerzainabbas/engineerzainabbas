@@ -114,7 +114,7 @@ MobileNetV2  →  ~96–98% accuracy
 Custom CNN   →  ~88–92% accuracy
 Dataset      →  10,000 images
 ```
-**[→ View Repository](#)**
+**[→ View Repository](https://github.com/engineerzainabbas/cat-vs-dog-classifier)**
 
 </td>
 </tr>
