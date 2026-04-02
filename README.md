@@ -97,7 +97,7 @@ TSLA  →  R²: 0.9131  |  MAE: $12.19
 GOOGL →  R²: 0.8324  |  MAE: $6.16
 Forecast  →  30-day future prediction
 ```
-**[→ View Repository](#)**
+**[→ View Repository](https://github.com/engineerzainabbas/stock-price-lstm)**
 
 </td>
 <td width="50%" valign="top">
